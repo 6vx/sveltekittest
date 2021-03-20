@@ -15,10 +15,10 @@
 <slot></slot>
 
 <footer>
-	<a href="home">Home</a>
+	<!-- <a href="home">Home</a>
     <a href="quotes">Quotes</a>
     <a href="lifestyle">Lifestyle</a>
-    <a href="notes">Notes</a>
+    <a href="notes">Notes</a> -->
     <p>Made by <a href="https://kitebot.ca">Kitebot</a>.</p>
 </footer>
 
