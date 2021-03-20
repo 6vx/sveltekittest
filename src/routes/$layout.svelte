@@ -1,6 +1,6 @@
 <script>
 
-import Blog from "./blog.svelte";
+//import Blog from "./blog.svelte";
 
 </script>
 
