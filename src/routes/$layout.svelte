@@ -50,4 +50,13 @@
         position:absolute;
         bottom: 0;
     }
+    @media (min-width: 480px) {
+		h1 {
+			max-width: none;
+		}
+
+		p {
+			max-width: none;
+		}
+	}
 </style>
