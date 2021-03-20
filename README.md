@@ -1,3 +1,8 @@
+# deathMetta
+
+Just making a pretty plain standard implementation of a basic app UI, filling with some data I like. Nothing fancy. Just want to try out the new Svelte kit update. 
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
