@@ -5,8 +5,13 @@ Just making a pretty plain standard implementation of a basic app UI, filling wi
 # Deploying to AWS Amplify
 ## Thanks to Ourson and J in the Discord chat
 
-npm i -D @sveltejs/adapter-static@next was required. Initially was on incorrect adapter branch. 
+    npm i -D    @sveltejs/adapter-static@next 
 
+was required. Initially was on incorrect adapter branch. 
+
+    npm i @dansvel/vite-plugin-markdown --save-dev
+
+to use markdown files with vite.
 
 # create-svelte
 
